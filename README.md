@@ -66,7 +66,7 @@ def create_cct_model():
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cct-anomaly-detection.git
+git clone https://github.com/Saabeelaa/cct-anomaly-detection.git
 cd cct-anomaly-detection
 
 # (Optional) Create and activate a virtual environment
